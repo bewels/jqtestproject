@@ -1,0 +1,32 @@
+#slider-red{
+    background:red;
+}
+#slider-red span {
+    background: rgb(255, 100, 100);
+}
+#slider-blue{
+    background:blue;
+    margin: 30px 0;
+}
+#slider-blue span {
+    background: rgb(100, 100, 255);
+}
+#slider-green{
+    background:green;
+}
+#slider-green span {
+    background: rgb(100, 255, 100);
+}
+.bg{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    padding: 10px;
+}
+#tabs-1{
+    display: flex;
+    justify-content: space-around;
+}
+.slider{
+    width: 75%;
+}
